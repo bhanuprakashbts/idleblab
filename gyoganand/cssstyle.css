@@ -314,3 +314,8 @@ body {
 bottom: 0 !important;
 }
 }
+
+html {
+	position: relative; // for sticky footer
+	min-height: 100%; // for sticky footer
+}
