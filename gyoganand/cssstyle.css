@@ -130,15 +130,17 @@ body {
 
 .footer {
     
-    text-align: center;
+text-align: center;
     color: white;
     background-color: black;
     margin-left: auto;
     margin-right: auto;
     padding: 10px 30px;
     bottom: 0;
-    clear: both;
     position: relative;
+    height: 250px;
+    margin-top: -250px;
+    clear: both;
 }
 
 .fa {
