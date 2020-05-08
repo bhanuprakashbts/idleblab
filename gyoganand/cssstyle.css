@@ -38,13 +38,15 @@ span{
 align-content: center
 }
 #container {
- position: relative;
+position: relative;
     width: 100vw;
     height: 65px;
     margin-right: auto;
     margin-left: auto;
+    clear: both;
     margin: 0 auto;
     background-color: black
+
 }
 
 #brand {
