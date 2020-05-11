@@ -147,6 +147,12 @@ a:hover{
         display: none;
     }
 
+    
+    label.logo a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    
     ul{
         position: relative;
         width: 100%;
